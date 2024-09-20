@@ -8,6 +8,8 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 そらまめ
+スタッシュ
+sutassyufjaiojeoa
 
 # ディレクトリ構成
 ```
